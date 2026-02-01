@@ -25,7 +25,7 @@ A responsive React + Bootstrap food menu UI featuring a hamburger navigation bar
 
 ```bash
 # Clone the repository
-git clone https://github.com/avvvvviiiiiiiiii/FSD_23BAI70305/tree/main/experiment2(Bootstrap)/bootstrap-navbar
+git clone https://github.com/avvvvviiiiiiiiii/FSD_23BAI70305.git
 cd bootstrap-navbar
 
 # Install dependencies
@@ -37,6 +37,10 @@ npm install
 ```bash
 npm start
 ```
+
+## Output
+
+![image_1](1.png)
 
 The app will be available at http://localhost:3000 with hot reload.
 
